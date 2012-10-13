@@ -8,5 +8,6 @@ public class HelloWorld {
 		System.out.print("003");
 		System.out.print("004");
 		System.out.print("005");
+		System.out.print("006");
 	}
 }
